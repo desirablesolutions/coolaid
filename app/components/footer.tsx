@@ -43,7 +43,7 @@ const awards = [
 
 const memberships = [
   { name: "ASHRAE", image: "/placeholder.svg?height=48&width=48", icon: Building2 },
-  { name: "ACCA", image: "/placeholder.svg?height=48&width=48", icon: Shield }\
+  { name: "ACCA", image: "/placeholder.svg?height=48&width=48", icon: Shield },
   { name: "PHCC", image: "/placeholder.svg?height=48&width=48", icon: Shield }
 ]
 
